@@ -1,0 +1,1717 @@
+[
+  {
+    "device": {
+      "serialNumber": "913580515e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "2027154745" }
+  },
+  {
+    "device": {
+      "serialNumber": "624535123e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "2027154745" }
+  },
+  {
+    "device": {
+      "serialNumber": "834187674e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "701859686" }
+  },
+  {
+    "device": {
+      "serialNumber": "1553078574e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "460939732" }
+  },
+  {
+    "device": {
+      "serialNumber": "1077782570e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "701663086" }
+  },
+  {
+    "device": {
+      "serialNumber": "1269986626e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1152198388" }
+  },
+  {
+    "device": {
+      "serialNumber": "200826105e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1623608074" }
+  },
+  {
+    "device": {
+      "serialNumber": "326778967e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1152198376" }
+  },
+  {
+    "device": {
+      "serialNumber": "1878722688e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1508559811" }
+  },
+  {
+    "device": {
+      "serialNumber": "767874487e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "825251623" }
+  },
+  {
+    "device": {
+      "serialNumber": "1583916804e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1508363200" }
+  },
+  {
+    "device": {
+      "serialNumber": "916931321e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "15947556" }
+  },
+  {
+    "device": {
+      "serialNumber": "486882736e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1576553906" }
+  },
+  {
+    "device": {
+      "serialNumber": "1372369247e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1576553895" }
+  },
+  {
+    "device": {
+      "serialNumber": "1819391449e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1152198388" }
+  },
+  {
+    "device": {
+      "serialNumber": "28246196e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "57524130" }
+  },
+  {
+    "device": {
+      "serialNumber": "2081322017e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "461070804" }
+  },
+  {
+    "device": {
+      "serialNumber": "386368243e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "460939732" }
+  },
+  {
+    "device": {
+      "serialNumber": "195524931e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1220520155" }
+  },
+  {
+    "device": {
+      "serialNumber": "1234663202e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1508559811" }
+  },
+  {
+    "device": {
+      "serialNumber": "1793618678e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "701990757" }
+  },
+  {
+    "device": {
+      "serialNumber": "837962490e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1623870214" }
+  },
+  {
+    "device": {
+      "serialNumber": "404349378e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1576553907" }
+  },
+  {
+    "device": {
+      "serialNumber": "690255650e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1623608071" }
+  },
+  {
+    "device": {
+      "serialNumber": "618003549e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "793356505" }
+  },
+  {
+    "device": {
+      "serialNumber": "408193947e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "461070804" }
+  },
+  {
+    "device": {
+      "serialNumber": "1491440587e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "843794545" }
+  },
+  {
+    "device": {
+      "serialNumber": "2099171840e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "2027089209" }
+  },
+  {
+    "device": {
+      "serialNumber": "234667425e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "57917337" }
+  },
+  {
+    "device": {
+      "serialNumber": "1410274362e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843663475" }
+  },
+  {
+    "device": {
+      "serialNumber": "1666597200e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "366389463" }
+  },
+  {
+    "device": {
+      "serialNumber": "1680721207e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "2026892597" }
+  },
+  {
+    "device": {
+      "serialNumber": "1241551124e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843532407" }
+  },
+  {
+    "device": {
+      "serialNumber": "546342262e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "2027220269" }
+  },
+  {
+    "device": {
+      "serialNumber": "1674127959e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "842877041" }
+  },
+  {
+    "device": {
+      "serialNumber": "201684202e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "701925222" }
+  },
+  {
+    "device": {
+      "serialNumber": "453638914e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "701663086" }
+  },
+  {
+    "device": {
+      "serialNumber": "1134421089e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "460874195" }
+  },
+  {
+    "device": {
+      "serialNumber": "1926705528e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "796934248" }
+  },
+  {
+    "device": {
+      "serialNumber": "773211034e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1508363204" }
+  },
+  {
+    "device": {
+      "serialNumber": "456758598e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1576553903" }
+  },
+  {
+    "device": {
+      "serialNumber": "1448889511e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1220585691" }
+  },
+  {
+    "device": {
+      "serialNumber": "400737821e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1152263916" }
+  },
+  {
+    "device": {
+      "serialNumber": "1535541767e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1105209746" }
+  },
+  {
+    "device": {
+      "serialNumber": "2052536686e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "57524133" }
+  },
+  {
+    "device": {
+      "serialNumber": "1144585707e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843663464" }
+  },
+  {
+    "device": {
+      "serialNumber": "725825079e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843532407" }
+  },
+  {
+    "device": {
+      "serialNumber": "888439125e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1972262692" }
+  },
+  {
+    "device": {
+      "serialNumber": "233088679e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843597942" }
+  },
+  {
+    "device": {
+      "serialNumber": "1801746126e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "2027220269" }
+  },
+  {
+    "device": {
+      "serialNumber": "1485691187e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1105275281" }
+  },
+  {
+    "device": {
+      "serialNumber": "1375129444e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1508428736" }
+  },
+  {
+    "device": {
+      "serialNumber": "41048181e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843663478" }
+  },
+  {
+    "device": {
+      "serialNumber": "1880643846e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "460874195" }
+  },
+  {
+    "device": {
+      "serialNumber": "167769094e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "460808656" }
+  },
+  {
+    "device": {
+      "serialNumber": "1826910314e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "793356503" }
+  },
+  {
+    "device": {
+      "serialNumber": "410581521e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1576881575" }
+  },
+  {
+    "device": {
+      "serialNumber": "1103012606e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843401331" }
+  },
+  {
+    "device": {
+      "serialNumber": "347208393e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1105209745" }
+  },
+  {
+    "device": {
+      "serialNumber": "1806073576e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "842877047" }
+  },
+  {
+    "device": {
+      "serialNumber": "1257080903e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1623739143" }
+  },
+  {
+    "device": {
+      "serialNumber": "1082532490e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "2027154745" }
+  },
+  {
+    "device": {
+      "serialNumber": "1754118315e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "57720741" }
+  },
+  {
+    "device": {
+      "serialNumber": "963133981e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "878382334" }
+  },
+  {
+    "device": {
+      "serialNumber": "229950142e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "460939732" }
+  },
+  {
+    "device": {
+      "serialNumber": "1747065714e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1508166604" }
+  },
+  {
+    "device": {
+      "serialNumber": "439999641e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843663479" }
+  },
+  {
+    "device": {
+      "serialNumber": "685016712e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1152132844" }
+  },
+  {
+    "device": {
+      "serialNumber": "1032524905e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1220454619" }
+  },
+  {
+    "device": {
+      "serialNumber": "384641254e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "2027023661" }
+  },
+  {
+    "device": {
+      "serialNumber": "1766039427e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1220389083" }
+  },
+  {
+    "device": {
+      "serialNumber": "2043764239e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1105209746" }
+  },
+  {
+    "device": {
+      "serialNumber": "1715428396e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1152198380" }
+  },
+  {
+    "device": {
+      "serialNumber": "2041575282e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "57720737" }
+  },
+  {
+    "device": {
+      "serialNumber": "1889774890e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "701990758" }
+  },
+  {
+    "device": {
+      "serialNumber": "1147479358e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "2027023661" }
+  },
+  {
+    "device": {
+      "serialNumber": "624011523e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "2027023669" }
+  },
+  {
+    "device": {
+      "serialNumber": "1423952442e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843401331" }
+  },
+  {
+    "device": {
+      "serialNumber": "601966689e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "461070800" }
+  },
+  {
+    "device": {
+      "serialNumber": "1373880580e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "843860085" }
+  },
+  {
+    "device": {
+      "serialNumber": "599364555e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843794545" }
+  },
+  {
+    "device": {
+      "serialNumber": "1405065490e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1220389083" }
+  },
+  {
+    "device": {
+      "serialNumber": "928184737e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843597928" }
+  },
+  {
+    "device": {
+      "serialNumber": "163496594e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843597943" }
+  },
+  {
+    "device": {
+      "serialNumber": "1649239264e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1545295655" }
+  },
+  {
+    "device": {
+      "serialNumber": "1095293164e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1623673607" }
+  },
+  {
+    "device": {
+      "serialNumber": "740984600e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "460808657" }
+  },
+  {
+    "device": {
+      "serialNumber": "675552809e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "2026958134" }
+  },
+  {
+    "device": {
+      "serialNumber": "1938545099e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1220454615" }
+  },
+  {
+    "device": {
+      "serialNumber": "572834450e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "842877046" }
+  },
+  {
+    "device": {
+      "serialNumber": "1529321013e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "842942578" }
+  },
+  {
+    "device": {
+      "serialNumber": "1473116946e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "57720737" }
+  },
+  {
+    "device": {
+      "serialNumber": "703614455e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843532407" }
+  },
+  {
+    "device": {
+      "serialNumber": "911424672e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1105209749" }
+  },
+  {
+    "device": {
+      "serialNumber": "856616323e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1508428740" }
+  },
+  {
+    "device": {
+      "serialNumber": "276545449e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1220454619" }
+  },
+  {
+    "device": {
+      "serialNumber": "1122899784e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1220716751" }
+  },
+  {
+    "device": {
+      "serialNumber": "1680564494e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "825251625" }
+  },
+  {
+    "device": {
+      "serialNumber": "1330350468e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "460874195" }
+  },
+  {
+    "device": {
+      "serialNumber": "1644440973e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1623608074" }
+  },
+  {
+    "device": {
+      "serialNumber": "1826802418e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "461136328" }
+  },
+  {
+    "device": {
+      "serialNumber": "2020014247e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1589925673" }
+  },
+  {
+    "device": {
+      "serialNumber": "1343917368e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1720853378" }
+  },
+  {
+    "device": {
+      "serialNumber": "637946618e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "2027089205" }
+  },
+  {
+    "device": {
+      "serialNumber": "817876403e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "825251625" }
+  },
+  {
+    "device": {
+      "serialNumber": "1080266560e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "57524129" }
+  },
+  {
+    "device": {
+      "serialNumber": "629342340e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "461070800" }
+  },
+  {
+    "device": {
+      "serialNumber": "201450458e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843401335" }
+  },
+  {
+    "device": {
+      "serialNumber": "498863545e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1576684975" }
+  },
+  {
+    "device": {
+      "serialNumber": "763076988e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1152198388" }
+  },
+  {
+    "device": {
+      "serialNumber": "166400575e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1152132840" }
+  },
+  {
+    "device": {
+      "serialNumber": "1723055105e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1152132840" }
+  },
+  {
+    "device": {
+      "serialNumber": "1053130914e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "878382331" }
+  },
+  {
+    "device": {
+      "serialNumber": "65604943e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1105209746" }
+  },
+  {
+    "device": {
+      "serialNumber": "1298956514e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "843401330" }
+  },
+  {
+    "device": {
+      "serialNumber": "668144139e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843466871" }
+  },
+  {
+    "device": {
+      "serialNumber": "276517473e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "825251623" }
+  },
+  {
+    "device": {
+      "serialNumber": "2019434837e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1220651224" }
+  },
+  {
+    "device": {
+      "serialNumber": "530671407e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "57917337" }
+  },
+  {
+    "device": {
+      "serialNumber": "1994945600e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1576553895" }
+  },
+  {
+    "device": {
+      "serialNumber": "432430654e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "2026892597" }
+  },
+  {
+    "device": {
+      "serialNumber": "1537984274e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "843532405" }
+  },
+  {
+    "device": {
+      "serialNumber": "1952755387e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1104947613" }
+  },
+  {
+    "device": {
+      "serialNumber": "1011214249e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1152198376" }
+  },
+  {
+    "device": {
+      "serialNumber": "1872824670e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1105275282" }
+  },
+  {
+    "device": {
+      "serialNumber": "1200807000e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1220389083" }
+  },
+  {
+    "device": {
+      "serialNumber": "269414474e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1152263912" }
+  },
+  {
+    "device": {
+      "serialNumber": "1787383306e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1576619443" }
+  },
+  {
+    "device": {
+      "serialNumber": "69412628e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843860085" }
+  },
+  {
+    "device": {
+      "serialNumber": "206851415e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1508494276" }
+  },
+  {
+    "device": {
+      "serialNumber": "1275327275e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1152132844" }
+  },
+  {
+    "device": {
+      "serialNumber": "1176037819e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "842942578" }
+  },
+  {
+    "device": {
+      "serialNumber": "13632733e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "842942581" }
+  },
+  {
+    "device": {
+      "serialNumber": "2025826824e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1545295657" }
+  },
+  {
+    "device": {
+      "serialNumber": "1717161584e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "2026892589" }
+  },
+  {
+    "device": {
+      "serialNumber": "886868576e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1152329451" }
+  },
+  {
+    "device": {
+      "serialNumber": "1449405707e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1207588643" }
+  },
+  {
+    "device": {
+      "serialNumber": "1354964540e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1220389079" }
+  },
+  {
+    "device": {
+      "serialNumber": "1170116801e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843794551" }
+  },
+  {
+    "device": {
+      "serialNumber": "1284041235e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "677644709" }
+  },
+  {
+    "device": {
+      "serialNumber": "1381734048e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1589925673" }
+  },
+  {
+    "device": {
+      "serialNumber": "1796783538e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1545295657" }
+  },
+  {
+    "device": {
+      "serialNumber": "261257306e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1152329452" }
+  },
+  {
+    "device": {
+      "serialNumber": "377503577e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "366389465" }
+  },
+  {
+    "device": {
+      "serialNumber": "1002447218e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "2027089209" }
+  },
+  {
+    "device": {
+      "serialNumber": "222009849e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1131063513" }
+  },
+  {
+    "device": {
+      "serialNumber": "1134316711e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1576684979" }
+  },
+  {
+    "device": {
+      "serialNumber": "1334384743e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1576553907" }
+  },
+  {
+    "device": {
+      "serialNumber": "420855818e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1105144213" }
+  },
+  {
+    "device": {
+      "serialNumber": "1377144667e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843794545" }
+  },
+  {
+    "device": {
+      "serialNumber": "1844589606e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "461070804" }
+  },
+  {
+    "device": {
+      "serialNumber": "418163117e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843532405" }
+  },
+  {
+    "device": {
+      "serialNumber": "708188266e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "843597937" }
+  },
+  {
+    "device": {
+      "serialNumber": "1451105004e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "701794146" }
+  },
+  {
+    "device": {
+      "serialNumber": "404962316e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "57655201" }
+  },
+  {
+    "device": {
+      "serialNumber": "792753166e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843860086" }
+  },
+  {
+    "device": {
+      "serialNumber": "1389715562e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843532405" }
+  },
+  {
+    "device": {
+      "serialNumber": "1956910372e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "57524133" }
+  },
+  {
+    "device": {
+      "serialNumber": "1429029217e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "461005264" }
+  },
+  {
+    "device": {
+      "serialNumber": "1214901643e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "701925218" }
+  },
+  {
+    "device": {
+      "serialNumber": "2013184497e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1623673606" }
+  },
+  {
+    "device": {
+      "serialNumber": "1348726785e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "701794150" }
+  },
+  {
+    "device": {
+      "serialNumber": "1784529298e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "57589665" }
+  },
+  {
+    "device": {
+      "serialNumber": "1153897255e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1152001780" }
+  },
+  {
+    "device": {
+      "serialNumber": "5572884e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "2027023661" }
+  },
+  {
+    "device": {
+      "serialNumber": "287103212e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "2026892598" }
+  },
+  {
+    "device": {
+      "serialNumber": "128960984e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1220323547" }
+  },
+  {
+    "device": {
+      "serialNumber": "460619035e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1508559812" }
+  },
+  {
+    "device": {
+      "serialNumber": "1056828800e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843729009" }
+  },
+  {
+    "device": {
+      "serialNumber": "1084914971e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "701990757" }
+  },
+  {
+    "device": {
+      "serialNumber": "267983910e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843532407" }
+  },
+  {
+    "device": {
+      "serialNumber": "1601353906e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843597942" }
+  },
+  {
+    "device": {
+      "serialNumber": "604501889e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1105275285" }
+  },
+  {
+    "device": {
+      "serialNumber": "262181592e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "461136328" }
+  },
+  {
+    "device": {
+      "serialNumber": "817010184e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "843597928" }
+  },
+  {
+    "device": {
+      "serialNumber": "474871133e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1220454619" }
+  },
+  {
+    "device": {
+      "serialNumber": "1811651643e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "2026892597" }
+  },
+  {
+    "device": {
+      "serialNumber": "1161670022e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843729014" }
+  },
+  {
+    "device": {
+      "serialNumber": "322353644e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1623608071" }
+  },
+  {
+    "device": {
+      "serialNumber": "416310576e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1220585687" }
+  },
+  {
+    "device": {
+      "serialNumber": "896157052e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843401330" }
+  },
+  {
+    "device": {
+      "serialNumber": "342516688e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1623804682" }
+  },
+  {
+    "device": {
+      "serialNumber": "415724460e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1576553907" }
+  },
+  {
+    "device": {
+      "serialNumber": "2041832600e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1589925671" }
+  },
+  {
+    "device": {
+      "serialNumber": "362061774e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1623608074" }
+  },
+  {
+    "device": {
+      "serialNumber": "1437879500e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1105078677" }
+  },
+  {
+    "device": {
+      "serialNumber": "62223254e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "460874192" }
+  },
+  {
+    "device": {
+      "serialNumber": "2039324102e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "460874195" }
+  },
+  {
+    "device": {
+      "serialNumber": "1770330301e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "461005268" }
+  },
+  {
+    "device": {
+      "serialNumber": "103371284e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1623935742" }
+  },
+  {
+    "device": {
+      "serialNumber": "430732954e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1508428748" }
+  },
+  {
+    "device": {
+      "serialNumber": "808216103e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "461070804" }
+  },
+  {
+    "device": {
+      "serialNumber": "52289393e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "701990755" }
+  },
+  {
+    "device": {
+      "serialNumber": "1476210463e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843729013" }
+  },
+  {
+    "device": {
+      "serialNumber": "1175212205e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1623608070" }
+  },
+  {
+    "device": {
+      "serialNumber": "1713525019e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "701859682" }
+  },
+  {
+    "device": {
+      "serialNumber": "432551980e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "461136328" }
+  },
+  {
+    "device": {
+      "serialNumber": "1432089606e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1152198380" }
+  },
+  {
+    "device": {
+      "serialNumber": "133200034e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1623804678" }
+  },
+  {
+    "device": {
+      "serialNumber": "936118274e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1576619440" }
+  },
+  {
+    "device": {
+      "serialNumber": "1424098895e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "460808657" }
+  },
+  {
+    "device": {
+      "serialNumber": "828665663e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843663479" }
+  },
+  {
+    "device": {
+      "serialNumber": "1277074351e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843597942" }
+  },
+  {
+    "device": {
+      "serialNumber": "1232265508e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1576553895" }
+  },
+  {
+    "device": {
+      "serialNumber": "1911713097e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1623935742" }
+  },
+  {
+    "device": {
+      "serialNumber": "1569458171e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1972262697" }
+  },
+  {
+    "device": {
+      "serialNumber": "1374833422e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1623804682" }
+  },
+  {
+    "device": {
+      "serialNumber": "1939302229e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "793356503" }
+  },
+  {
+    "device": {
+      "serialNumber": "1159085252e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "460808648" }
+  },
+  {
+    "device": {
+      "serialNumber": "525767715e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "460808656" }
+  },
+  {
+    "device": {
+      "serialNumber": "469381527e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "2026958133" }
+  },
+  {
+    "device": {
+      "serialNumber": "428749626e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1105275284" }
+  },
+  {
+    "device": {
+      "serialNumber": "305206675e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "843663477" }
+  },
+  {
+    "device": {
+      "serialNumber": "625294707e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1220389082" }
+  },
+  {
+    "device": {
+      "serialNumber": "1688107126e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1220389080" }
+  },
+  {
+    "device": {
+      "serialNumber": "115010379e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "842877041" }
+  },
+  {
+    "device": {
+      "serialNumber": "831375368e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843729013" }
+  },
+  {
+    "device": {
+      "serialNumber": "560437491e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843729009" }
+  },
+  {
+    "device": {
+      "serialNumber": "283351912e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1508428736" }
+  },
+  {
+    "device": {
+      "serialNumber": "840084163e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843860085" }
+  },
+  {
+    "device": {
+      "serialNumber": "39312106e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "461070804" }
+  },
+  {
+    "device": {
+      "serialNumber": "647632837e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "2026958137" }
+  },
+  {
+    "device": {
+      "serialNumber": "825283359e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "2026892601" }
+  },
+  {
+    "device": {
+      "serialNumber": "1102932283e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843860081" }
+  },
+  {
+    "device": {
+      "serialNumber": "446026727e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1972262696" }
+  },
+  {
+    "device": {
+      "serialNumber": "1795996990e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1550136380" }
+  },
+  {
+    "device": {
+      "serialNumber": "1078865980e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "461070804" }
+  },
+  {
+    "device": {
+      "serialNumber": "1235563503e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1207588658" }
+  },
+  {
+    "device": {
+      "serialNumber": "988822037e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1105209746" }
+  },
+  {
+    "device": {
+      "serialNumber": "2024977458e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1623739142" }
+  },
+  {
+    "device": {
+      "serialNumber": "1190877057e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1220520151" }
+  },
+  {
+    "device": {
+      "serialNumber": "418719440e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "460284368" }
+  },
+  {
+    "device": {
+      "serialNumber": "543754238e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1508494273" }
+  },
+  {
+    "device": {
+      "serialNumber": "2070147740e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "2027154745" }
+  },
+  {
+    "device": {
+      "serialNumber": "1377046560e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1131063511" }
+  },
+  {
+    "device": {
+      "serialNumber": "1553455411e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "1576750515" }
+  },
+  {
+    "device": {
+      "serialNumber": "1678037781e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "842942581" }
+  },
+  {
+    "device": {
+      "serialNumber": "531412871e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1623739134" }
+  },
+  {
+    "device": {
+      "serialNumber": "959725246e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "701990754" }
+  },
+  {
+    "device": {
+      "serialNumber": "745009963e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843663477" }
+  },
+  {
+    "device": {
+      "serialNumber": "1446102392e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843597941" }
+  },
+  {
+    "device": {
+      "serialNumber": "1999425380e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "1152329449" }
+  },
+  {
+    "device": {
+      "serialNumber": "293671165e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "460808656" }
+  },
+  {
+    "device": {
+      "serialNumber": "1320426381e13",
+      "isOnline": true
+    },
+    "brigade": { "code": "2027089205" }
+  },
+  {
+    "device": {
+      "serialNumber": "49578178e13",
+      "isOnline": false
+    },
+    "brigade": { "code": "843729013" }
+  }
+]
